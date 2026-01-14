@@ -1,5 +1,6 @@
-**Aspiring Data Analyst | Excel • Power BI • SQL • Python | Turning data into business insights**
----
+# **Aspiring Data Analyst | Excel • Power BI • SQL • Python**<br> 
+<h3>Turning data into business insights.</h3>
+
 # 💻 Tech Stack:
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
@@ -12,8 +13,10 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=ankkona&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ankkona&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankkona&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
----
+
