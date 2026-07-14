@@ -22,19 +22,9 @@ Turning data into business insights. I build end-to-end analytics projects using
 - **[Airbnb Listings & Reviews Analysis](https://github.com/ankkona/Airbnb-Performance-Analysis)**  
   Excel + SQL | Analyzed 279K+ listings across 10 cities — pricing trends, room type performance, and city-level ratings
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankkona&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankkona&layout=compact&theme=default)
-
----
 
 ### 🌱 Currently Exploring
-Advanced SQL, Power BI DAX, and building an end-to-end portfolio website
-
----
+Python and it's libraries and building an end-to-end portfolio website
 
 ### 🤝 Connect with Me
 
