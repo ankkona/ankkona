@@ -1,32 +1,48 @@
 # Hi, I'm Ankkona 👋
 
-## Aspiring Data Analyst | Excel • Power BI • SQL • Python
+## Aspiring Data Analyst | Excel • SQL • Power BI • Python
 
-Turning data into business insights. I build end-to-end analytics projects using real-world datasets, from raw data cleaning to interactive dashboards.
+I’m an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I build end-to-end analytics projects involving data cleaning, exploratory analysis, SQL querying, Excel modeling, and interactive dashboards using real-world datasets.
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 📌 Featured Projects
+## 📊 What I Do
 
-- **[Global Electronics Retailer Dashboard](https://github.com/ankkona/Global-Retail-Electronics-Analysis)**  
-  SQL Server + Power BI | 3-page dashboard analyzing revenue, product, and regional performance across a multi-table retail dataset
+- Clean and transform raw datasets using Excel Power Query and Python
+- Analyze business problems using SQL
+- Build interactive dashboards using Power BI and Excel
+- Extract insights and communicate findings through data storytelling
 
-- **[Airbnb Listings & Reviews Analysis](https://github.com/ankkona/Airbnb-Performance-Analysis)**  
-  Excel + SQL | Analyzed 279K+ listings across 10 cities - pricing trends, room type performance, and city-level ratings
+## 📌 Featured Projects
 
+### 📈 [Global Electronics Retailer Dashboard](https://github.com/ankkona/Global-Retail-Electronics-Analysis)
 
-### 🌱 Currently Exploring
-Python and it's libraries and building an end-to-end portfolio website
+**SQL Server + Power BI**
 
-### 🤝 Connect with Me
+An end-to-end Business Intelligence project analyzing sales performance, product categories, customer segments, and regional trends using a multi-table retail dataset. Built interactive dashboards to uncover revenue, profit, and business performance insights.
+
+### 🏠 [Airbnb Listings Performance Analysis](https://github.com/ankkona/Airbnb-Performance-Analysis)
+
+**Excel + SQL**
+
+Analyzed 279K+ Airbnb listings across 10 cities to understand pricing trends, room type performance, listing distribution, and customer review patterns through data analysis and dashboard visualization.
+
+## 🌱 Currently Exploring
+
+- Python for data analysis and automation
+- Advanced analytics techniques
+- Building an end-to-end data analytics portfolio website
+
+## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankkonadas/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankkonad.cse.jisu21@gmail.com)
