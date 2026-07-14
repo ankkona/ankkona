@@ -17,6 +17,7 @@ I’m an aspiring Data Analyst passionate about transforming raw data into meani
 ## 📌 Featured Projects
 
 ### 📈 [Global Electronics Retailer Dashboard](https://github.com/ankkona/Global-Retail-Electronics-Analysis)
+<img src="https://github.com/ankkona/Global-Retail-Electronics-Analysis/blob/main/Dashboard%20Images/Global%20Electronics%20Retailer%20Analysis_page-0001.jpg" width="500">
 
 **SQL Server + Power BI**
 
