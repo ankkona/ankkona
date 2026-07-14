@@ -28,12 +28,6 @@ An end-to-end Business Intelligence project analyzing sales performance, product
 
 Analyzed 279K+ Airbnb listings across 10 cities to understand pricing trends, room type performance, listing distribution, and customer review patterns through data analysis and dashboard visualization.
 
-## 🌱 Currently Exploring
-
-- Python for data analysis and automation
-- Advanced analytics techniques
-- Building an end-to-end data analytics portfolio website
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankkonadas/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankkonad.cse.jisu21@gmail.com)
