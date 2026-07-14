@@ -1,21 +1,46 @@
-# **Aspiring Data Analyst | Excel • Power BI • SQL • Python**<br> 
-<h3>Turning data into business insights.</h3>
+# Hi, I'm Ankkona 👋
 
-# 💻 Tech Stack:
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## Aspiring Data Analyst | Excel • Power BI • SQL • Python
+
+Turning data into business insights — I build end-to-end analytics projects using real-world datasets, from raw data cleaning to interactive dashboards.
+
+---
+
+### 🛠️ Tech Stack
+
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
+---
 
-# 📊 GitHub Stats:
+### 📌 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=ankkona&theme=algolia&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ankkona&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankkona&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- **[Global Electronics Retailer Dashboard](your-repo-link)**  
+  SQL Server + Power BI | 3-page dashboard analyzing revenue, product, and regional performance across a multi-table retail dataset
+
+- **[Airbnb Listings & Reviews Analysis](your-repo-link)**  
+  Excel + SQL | Analyzed 279K+ listings across 10 cities — pricing trends, room type performance, and city-level ratings
 
 ---
 
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankkona&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankkona&layout=compact&theme=default)
+
+---
+
+### 🌱 Currently Exploring
+Advanced SQL, Power BI DAX, and building an end-to-end portfolio website
+
+---
+
+### 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
