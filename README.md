@@ -2,9 +2,7 @@
 
 ## Aspiring Data Analyst | Excel • Power BI • SQL • Python
 
-Turning data into business insights — I build end-to-end analytics projects using real-world datasets, from raw data cleaning to interactive dashboards.
-
----
+Turning data into business insights. I build end-to-end analytics projects using real-world datasets, from raw data cleaning to interactive dashboards.
 
 ### 🛠️ Tech Stack
 
@@ -16,14 +14,12 @@ Turning data into business insights — I build end-to-end analytics projects us
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 
----
-
 ### 📌 Featured Projects
 
-- **[Global Electronics Retailer Dashboard](your-repo-link)**  
+- **[Global Electronics Retailer Dashboard](https://github.com/ankkona/Global-Retail-Electronics-Analysis)**  
   SQL Server + Power BI | 3-page dashboard analyzing revenue, product, and regional performance across a multi-table retail dataset
 
-- **[Airbnb Listings & Reviews Analysis](your-repo-link)**  
+- **[Airbnb Listings & Reviews Analysis](https://github.com/ankkona/Airbnb-Performance-Analysis)**  
   Excel + SQL | Analyzed 279K+ listings across 10 cities — pricing trends, room type performance, and city-level ratings
 
 ---
@@ -42,5 +38,5 @@ Advanced SQL, Power BI DAX, and building an end-to-end portfolio website
 
 ### 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankkonadas/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankkonad.cse.jisu21@gmail.com)
