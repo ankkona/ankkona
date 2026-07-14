@@ -20,7 +20,7 @@ Turning data into business insights. I build end-to-end analytics projects using
   SQL Server + Power BI | 3-page dashboard analyzing revenue, product, and regional performance across a multi-table retail dataset
 
 - **[Airbnb Listings & Reviews Analysis](https://github.com/ankkona/Airbnb-Performance-Analysis)**  
-  Excel + SQL | Analyzed 279K+ listings across 10 cities — pricing trends, room type performance, and city-level ratings
+  Excel + SQL | Analyzed 279K+ listings across 10 cities - pricing trends, room type performance, and city-level ratings
 
 
 ### 🌱 Currently Exploring
