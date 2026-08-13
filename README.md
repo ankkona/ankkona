@@ -1,9 +1,3 @@
-# Hi, I'm Ankkona 👋
-
-## Aspiring Data Analyst | Excel • SQL • Power BI • Python
-
-I’m an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I build end-to-end analytics projects involving data cleaning, exploratory analysis, SQL querying, Excel modeling, and interactive dashboards using real-world datasets.
-
 ## 🛠️ Tech Stack
 
 ![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -13,30 +7,28 @@ I’m an aspiring Data Analyst passionate about transforming raw data into meani
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 
-## 📌 Featured Projects
-
-<table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📈 Global Electronics Retailer Dashboard</h3>
+<h3 align="center">✈️ Air Traffic Passenger Analysis</h3>
 
 <p align="center">
-<img src="https://github.com/ankkona/Global-Retail-Electronics-Analysis/blob/main/Dashboard%20Images/Global%20Electronics%20Retailer%20Analysis_page-0001.jpg" width="100%">
+<img src="YOUR_AIR_TRAFFIC_IMAGE_URL" width="100%">
 </p>
 
 <p align="center">
-<b>SQL Server + Power BI</b>
+<b>Python + SQL + Power BI</b>
 </p>
 
 <p align="center">
-An end-to-end Business Intelligence project analyzing sales performance, product categories, customer segments, and regional trends using a multi-table retail dataset.
+Analyzed airline passenger trends using Python for data preparation and exploratory analysis, SQL for querying, and Power BI to build an interactive dashboard highlighting traffic patterns and performance trends.
 </p>
 
 <p align="center">
-<a href="https://github.com/ankkona/Global-Retail-Electronics-Analysis">
+<a href="YOUR_AIR_TRAFFIC_GITHUB_URL">
 View Project →
 </a>
 </p>
@@ -45,46 +37,22 @@ View Project →
 
 <td width="50%" valign="top">
 
-<h3 align="center">🏠 Airbnb Listings Performance Analysis</h3>
+<h3 align="center">📊 YOUR FOURTH PROJECT</h3>
 
 <p align="center">
-<img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Dashboard.png" width="100%">
+<img src="YOUR_FOURTH_PROJECT_IMAGE_URL" width="100%">
 </p>
 
 <p align="center">
-<b>Excel + SQL</b>
+<b>YOUR TOOLS</b>
 </p>
 
 <p align="center">
-Analyzed 279K+ Airbnb listings across 10 cities to understand pricing trends, room type performance, listing distribution, and customer review patterns.
+YOUR PROJECT DESCRIPTION
 </p>
 
 <p align="center">
-<a href="https://github.com/ankkona/Airbnb-Performance-Analysis">
-View Project →
-</a>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">🏠 Airbnb Listings Performance Analysis</h3>
-
-<p align="center">
-<img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Dashboard.png" width="100%">
-</p>
-
-<p align="center">
-<b>Excel + SQL</b>
-</p>
-
-<p align="center">
-Analyzed 279K+ Airbnb listings across 10 cities to understand pricing trends, room type performance, listing distribution, and customer review patterns.
-</p>
-
-<p align="center">
-<a href="https://github.com/ankkona/Airbnb-Performance-Analysis">
+<a href="YOUR_FOURTH_PROJECT_GITHUB_URL">
 View Project →
 </a>
 </p>
@@ -92,8 +60,3 @@ View Project →
 </td>
 
 </tr>
-</table>
-
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankkonadas/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankkonad.cse.jisu21@gmail.com)
