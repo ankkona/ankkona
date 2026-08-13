@@ -67,6 +67,30 @@ View Project →
 
 </td>
 
+<td width="50%" valign="top">
+
+<h3 align="center">🏠 Airbnb Listings Performance Analysis</h3>
+
+<p align="center">
+<img src="https://github.com/ankkona/Airbnb-Performance-Analysis/blob/main/Dashboard.png" width="100%">
+</p>
+
+<p align="center">
+<b>Excel + SQL</b>
+</p>
+
+<p align="center">
+Analyzed 279K+ Airbnb listings across 10 cities to understand pricing trends, room type performance, listing distribution, and customer review patterns.
+</p>
+
+<p align="center">
+<a href="https://github.com/ankkona/Airbnb-Performance-Analysis">
+View Project →
+</a>
+</p>
+
+</td>
+
 </tr>
 </table>
 
