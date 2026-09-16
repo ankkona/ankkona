@@ -1,8 +1,8 @@
 # Hi, I'm Ankkona 👋
 
-## Aspiring Data Analyst | Excel • SQL • Power BI • Python
+## Data Analyst | Excel • SQL • Power BI • Python
 
-I’m an aspiring Data Analyst passionate about transforming raw data into meaningful business insights. I build end-to-end analytics projects involving data cleaning, exploratory analysis, SQL querying, Excel modeling, and interactive dashboards using real-world datasets.
+I’m a Data Analyst passionate about transforming raw data into meaningful business insights. I build end-to-end analytics projects involving data cleaning, exploratory analysis, SQL querying, Excel modeling, and interactive dashboards using real-world datasets.
 
 ## 🛠️ Tech Stack
 
